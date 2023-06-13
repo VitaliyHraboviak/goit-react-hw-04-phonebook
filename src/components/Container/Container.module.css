@@ -1,0 +1,22 @@
+.titleInput{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 50px;
+    margin-left: 10px;
+}
+.hTitle{
+margin-left: 10px;
+}
+.inputTitle{
+    margin-top: 10px;
+}
+.btnTitle{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.error{
+    position: absolute;
+    margin-left: 220px;
+    color: red;
+}

@@ -1,0 +1,19 @@
+.ContactsListUl {
+display: flex;
+flex-direction: column;
+
+}
+.ContactsListLi{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: aqua;
+    width: 400px;
+    justify-content: space-between;
+}
+.ContactsListBtn{
+    display: flex;
+    margin-left: 10px;
+    width: 60px;
+    height: 20px;
+}
